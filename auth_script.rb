@@ -1,5 +1,3 @@
-#!/Users/nathanjo/.rbenv/shims/ruby
-
 require 'nokogiri'
 require 'mechanize'
 require 'fileutils'
