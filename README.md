@@ -41,3 +41,7 @@ login.field.value = "nathanjo"
 Example:
 
 login.pass = "YOUR_PASSWORD"
+
+# Screenshot
+
+![alt example](https://www.evernote.com/l/AOt5ZzFnS1dF1JU20DadlK3CbYGjpj_1TGwB/image.png)
